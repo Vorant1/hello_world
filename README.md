@@ -1,2 +1,5 @@
 # hello_world
-first repository
+Hello People,
+
+My name is Anton.
+I have started to learn Elixir.
